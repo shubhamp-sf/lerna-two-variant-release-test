@@ -1,6 +1,6 @@
 {
   "name": "@shubhamp-sf/the-uncommon-package",
-  "version": "1.1.0",
+  "version": "1.1.0-variant",
   "description": "the uncommon package with versions having variants",
   "author": "Shubham P <shubham.prajapat@sourcefuse.com>",
   "homepage": "https://github.com/shubhamp-sf/lerna-two-branch-release-test#readme",

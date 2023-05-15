@@ -8,3 +8,5 @@ This package have two variants of itself
 And they go hand-in-hand.
 
 Part of POC for releasing juggler and sequelize both versions' services in ARC API.
+
+<!-- some change for new version -->
