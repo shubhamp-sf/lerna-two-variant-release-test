@@ -1,0 +1,26 @@
+{
+  "name": "@shubhamp-sf/the-uncommon-package",
+  "version": "1.0.0",
+  "description": "the uncommon package with versions having variants",
+  "author": "Shubham P <shubham.prajapat@sourcefuse.com>",
+  "homepage": "https://github.com/shubhamp-sf/lerna-two-branch-release-test#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamp-sf/lerna-two-branch-release-test.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/the-uncommon-package.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/shubhamp-sf/lerna-two-branch-release-test/issues"
+  }
+}

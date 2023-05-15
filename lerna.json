@@ -1,0 +1,20 @@
+{
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json",
+  "useWorkspaces": true,
+  "version": "independent",
+  "commands": {
+    "version": {
+      "conventionalCommits": true,
+      "message": "chore: publish release",
+      "allowBranch": "main"
+    },
+    "publish": {
+      "conventionalCommits": true,
+      "registry": "http://localhost:4873/",
+      "message": "chore: publish release",
+      "allowBranch": "main",
+      "noPrivate": true,
+      "graphType": "all"
+    }
+  }
+}
